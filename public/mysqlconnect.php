@@ -2,8 +2,8 @@
 /**********MYSQL Settings****************/
 $host="localhost";
 $databasename="ixigoCabsInvoice";
-$user="gaurav";
-$pass="199106";
+$user="forge";
+$pass="1wpu9eSidtrNWWoVEyQF";
 /**********MYSQL Settings****************/
 
 
